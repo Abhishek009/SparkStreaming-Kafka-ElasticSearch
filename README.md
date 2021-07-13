@@ -1,1 +1,1 @@
-# SparkStreamingWithKafkaandElasticSearcch
+# SparkStreaming-Kafka-ElasticSearch
